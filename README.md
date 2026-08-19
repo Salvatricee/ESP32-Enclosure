@@ -27,7 +27,8 @@ The enclosure was designed to provide enough space for the ESP32 board while kee
 
 The enclosure was modelled using **Onshape**.
 
-**Onshape Document:[https://cad.onshape.com/documents/8025e19ec840e1144be3bdb5/w/0be8472ac9a2dbb5a86f73b6/e/fc0143315ea644756137f752]
+**Onshape Document**:
+https://cad.onshape.com/documents/8025e19ec840e1144be3bdb5/w/0be8472ac9a2dbb5a86f73b6/e/fc0143315ea644756137f752
 
 ## Part 2: Pointers in C/C++
 
