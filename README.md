@@ -64,8 +64,6 @@ Topics covered include:
 [https://docs.google.com/document/d/14lVzJRvv8cO_pyE1DwNHLSazi3wvQzUdWV54w_27_lQ/edit?usp=sharing]
 
 
-## Author
 
-**Salvatrice**
 
 
